@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7045724a.css",
+    "main.js": "/static/js/main.e0b973c2.js",
+    "static/js/787.276eb504.chunk.js": "/static/js/787.276eb504.chunk.js",
+    "static/media/picture_mutants.png": "/static/media/picture_mutants.194344ca2a7c6229532e.png",
+    "static/media/bg_mutants.png": "/static/media/bg_mutants.204e45845375363845ff.png",
+    "static/media/Pixellari.ttf": "/static/media/Pixellari.319bd0eb3ce3da4ab5b1.ttf",
+    "static/media/discord.png": "/static/media/discord.f80d41a5403e5f74000a.png",
+    "static/media/twitter.png": "/static/media/twitter.f87fab6e76b591c59da9.png",
+    "static/media/polygon.png": "/static/media/polygon.910e1faf70490b18fd2f.png",
+    "index.html": "/index.html",
+    "main.7045724a.css.map": "/static/css/main.7045724a.css.map",
+    "main.e0b973c2.js.map": "/static/js/main.e0b973c2.js.map",
+    "787.276eb504.chunk.js.map": "/static/js/787.276eb504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7045724a.css",
+    "static/js/main.e0b973c2.js"
+  ]
+}
